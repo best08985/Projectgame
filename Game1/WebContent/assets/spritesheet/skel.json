@@ -1,0 +1,249 @@
+{
+  "frames": {
+    "idle0": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle1": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 1205,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle10": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 2410,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle11": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 3615,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle2": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 801,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle3": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 1205,
+        "y": 801,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle4": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 2410,
+        "y": 801,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle5": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 3615,
+        "y": 801,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle6": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1602,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle7": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 1205,
+        "y": 1602,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle8": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 2410,
+        "y": 1602,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    },
+    "idle9": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 3615,
+        "y": 1602,
+        "w": 1205,
+        "h": 801
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1205,
+        "h": 801
+      },
+      "sourceSize": {
+        "w": 1205,
+        "h": 801
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "skel.png"
+  }
+}

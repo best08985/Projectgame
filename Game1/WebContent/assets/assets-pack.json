@@ -1,0 +1,157 @@
+{
+  "level": [
+    {
+      "type": "image",
+      "key": "mono",
+      "url": "assets/images/mono.png",
+      "overwrite": false
+    },
+    {
+      "type": "tilemap",
+      "key": "aaaa",
+      "url": "assets/tilemap/aaaa.json",
+      "format": "TILED_JSON"
+    },
+    {
+      "type": "spritesheet",
+      "key": "tile_set",
+      "url": "assets/tilemap/tile_set.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "spookybg",
+      "url": "assets/images/spookybg.png",
+      "overwrite": false
+    },
+    {
+      "type": "atlas",
+      "key": "cop",
+      "textureURL": "assets/spritesheet/cop.png",
+      "atlasURL": "assets/spritesheet/cop.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    },
+    {
+      "type": "image",
+      "key": "Bullet",
+      "url": "assets/images/Bullet.png",
+      "overwrite": false
+    },
+    {
+      "type": "atlas",
+      "key": "skel",
+      "textureURL": "assets/spritesheet/skel.png",
+      "atlasURL": "assets/spritesheet/skel.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    },
+    {
+      "type": "tilemap",
+      "key": "pjgame",
+      "url": "assets/tilemap/pjgame.json",
+      "format": "TILED_JSON"
+    },
+    {
+      "type": "audio",
+      "key": "explotion",
+      "urls": ["assets/sound/explotion.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "gun",
+      "urls": ["assets/sound/gun.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "spookysong",
+      "urls": ["assets/sound/spookysong.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "image",
+      "key": "door",
+      "url": "assets/images/door.png",
+      "overwrite": false
+    },
+    {
+      "type": "tilemap",
+      "key": "bbbb",
+      "url": "assets/tilemap/bbbb.json",
+      "format": "TILED_JSON"
+    }
+  ],
+  "start": [
+    {
+      "type": "image",
+      "key": "tap-to-start",
+      "url": "assets/images/tap-to-start.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "play",
+      "url": "assets/images/play.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "story",
+      "url": "assets/images/story.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "devteam",
+      "url": "assets/images/devteam.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "startbg",
+      "url": "assets/images/startbg.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "01",
+      "url": "assets/images/01.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "02",
+      "url": "assets/images/02.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "03",
+      "url": "assets/images/03.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "team",
+      "url": "assets/images/team.png",
+      "overwrite": false
+    }
+  ],
+  "preload": [{
+    "type": "image",
+    "key": "loading",
+    "url": "assets/images/loading.png",
+    "overwrite": false
+  }],
+  "meta": {
+    "generated": "1513847111424",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}
